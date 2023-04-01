@@ -1,1 +1,1 @@
-# git-and-github-class and its just a test
+# git-and-github-class - a test
